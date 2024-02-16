@@ -1,2 +1,3 @@
 __vsc_prompt_cmd_original
 echo hello SQL
+psql --username=freecodecamp --dbname=postgres
